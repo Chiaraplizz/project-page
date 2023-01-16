@@ -1,1 +1,3 @@
-# project-page
+---
+permalink: /index.html
+---
